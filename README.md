@@ -1,6 +1,6 @@
 The main purpose of this repository is to publicly share a (quick and dirty) code I developed while working for an Online Consumer Panel company (a more elaborated motive explanation will be included soon).
 
-By the time of its proposal, objectives of this work were:
+By the time of this proposal, objectives of this work were:
 - Evaluating the feasibility of simulations for (strategic) decision making support tools in the online consumer panel industry
 - Identify critical points for additional business process automation (eg current sample size analysis) or tools for strategic decision making (eg annual recruitment budget allocation analysis) 
 - Introducing to/Testing concepts and dynamics as observed in the field / empirical data
