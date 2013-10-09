@@ -6,14 +6,14 @@ By the time of its proposal, objectives of this work were:
 - Introducing to/Testing concepts and dynamics as observed in the field / empirical data
 
 There are two undistinguished simulation exercises in the code:
-1. Sketching an IBRO model and evaluate its programatic feasibility
-2. Sketch an analytical tool for fieldwork simulation of sometimes called "tracking" studies, with focus on their cost-efficiency analysis
 
 1) An IBRO (inflow - base - retention/chrun - outflow) model
+- Sketching an IBRO model and evaluate its programatic feasibility
 - Determines the parameters required to create a workable "universe" composed by "panelists" instances with different tenures which final aggregate response rate is that asked by user
 - Inflow/Retention/Outflow based on fixed rules
 
 2) A simulation of different repeated sampling schemes ("trackers") during a determined period (counted as 'weeks')
+- Sketch an analytical tool for fieldwork simulation of sometimes called "tracking" studies, with focus on their cost-efficiency analysis
 - This section relies on the creation of a workable universe after running the previous IBRO model
 - Works on the parameters for a repeated sampling (some parameters are exceptional to this work)
 - Establishes the elimination rules (instances that will be still in the universe but not available for sampling after a determined number of iterations)
