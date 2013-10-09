@@ -28,5 +28,4 @@ Caveats:
 - There is an external file used to evaluate the response rates to be assigned to the panelist instances (included in the repository)
 
 Participants:
-E Caraballo, conception and developer
-L Borja, (internal) business developer (LSR)
+E Caraballo, conception and developer; L Borja, (internal) business developer (LSR)
