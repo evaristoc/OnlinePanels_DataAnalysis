@@ -1,12 +1,13 @@
 The main purpose of this repository is to publicly share a (quick and dirty) code I developed while working for an Online Consumer Panel company (a more elaborated motive explanation will be included soon).
 
-Results of this work were used to:
-- Evaluate the feasibility of simulations for strategic decision making in the online consumer panel industry
-- Introduce to/Test concepts and dynamics as observed in the field as well as empirical data 
-- Sketch an IBRO model and evaluate its programatic feasibility
-- Sketch an analytical tool for fieldwork simulation of sometimes called "tracking" studies, with focus on cost-efficiency analysis
+By the time of its proposal, objectives of this work were:
+- Evaluating the feasibility of simulations for (strategic) decision making support tools in the online consumer panel industry
+- Identify critical points for additional business process automation (eg current sample size analysis) or tools for strategic decision making (eg annual recruitment budget allocation analysis) 
+- Introducing to/Testing concepts and dynamics as observed in the field / empirical data
 
 There are two undistinguished simulation exercises in the code:
+1) Sketching an IBRO model and evaluate its programatic feasibility
+2) Sketch an analytical tool for fieldwork simulation of sometimes called "tracking" studies, with focus on their cost-efficiency analysis
 
 1) An IBRO (inflow - base - retention/chrun - outflow) model
 *** Determines the parameters required to create a workable "universe" composed by "panelists" instances with different tenures which final aggregate response rate is that asked by user
