@@ -7,25 +7,26 @@ By the time of this proposal, objectives of this work were:
 
 There are two undistinguished simulation exercises in the code:
 
-1) An IBRO (inflow - base - retention/chrun - outflow) model
+1) An IBRO (for Inflow - Base - Retention/chrun - Outflow) model
 - Sketching an IBRO model and evaluate its programatic feasibility
 - Determines the parameters required to create a workable "universe" composed by "panelists" instances with different tenures which final aggregate response rate is that asked by user
 - Inflow/Retention/Outflow based on fixed rules
+- Preliminary evaluation of the dynamics of the instances' tenure and composition dynamics
 
 2) A simulation of different repeated sampling schemes ("trackers") during a determined period (counted as 'weeks')
-- Sketch an analytical tool for fieldwork simulation of sometimes called "tracking" studies, with focus on their cost-efficiency analysis
-- This section relies on the creation of a workable universe after running the previous IBRO model
-- Works on the parameters for a repeated sampling (some parameters are exceptional to this work)
-- Establishes the elimination rules (instances that will be still in the universe but not available for sampling after a determined number of iterations)
-- Formulate 2x2 experiment based on the parameter used to calculate sample size (usually a "response rate", 2 different parameters) and "weekly" fieldwork period (fixed or random with maximum)
+- Relies on the creation of a workable "universe" resulting of running the IBRO model
+- Calculate the parameters for a repeated sampling to build a "tracker" simulator with replacement subjected to 'time-based elimination rules' (some parameters are exceptional to this work)
+- Includes "elimination rules" (those which prevent instances that will be still in the universe not to be available for sampling after a determined number of iterations)
+- Formulate a 2x2 experiment based on the parameter used to calculate sample size (usually an aggregate "response rate", 2 different calculations) and "weekly" fieldwork period (fixed or random with maximum)
+- Focuses on cost-efficiency analysis of different tracker simulations
 
-The project was followed by a more concrete proposal and further analyses of empirical data with valuable results (not included here)
+The project was followed by a more concrete proposal and further analyses of empirical data (not included here)
 
-Caveats:
-- For being a 'quick and dirty', sketching demo, the project is still unfinished
+Observations:
+- For being a 'quick and dirty' sketching demo the code is still "unpolished"
 - The demo doesn't have a GUI or similar (runs on IDLE or command prompt); there are sections where parameters must be changed manually on the code
-- There is substantial use of arbitrary models or data that "simulated" observations in the field
-- There is an external file used to evaluate the response rates to be assigned to the panelist instances (included in the repository)
+- Data / dynamics were based on sketched models and or arbitrary parameters
+- An external file was used to assign response rates to panelist instances; file included in the repository
 
 Participants:
 E Caraballo, conception and developer; L Borja, (internal) business developer (LSR)
