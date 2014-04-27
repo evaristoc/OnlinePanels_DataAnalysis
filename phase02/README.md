@@ -14,6 +14,8 @@ Some observations are:
 
 Participants: E Caraballo, conception and developer
 
+For information about this code please contact me at varikviatyahoodotcom
+
 
 
 
