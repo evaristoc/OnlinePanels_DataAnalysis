@@ -6,7 +6,7 @@ Some observations are:
 1) IBRO (for Inflow - Base - Retention/chrun - Outflow) model
 
 - Functions better supported by empirical observations to explain survival and response rates per cohort will be used.
-- The baseline for a population would be evaluated in terms of a year-length proposal.
+- The baseline for a population would be evaluated in terms of a "year-length" horizon instead of a "per project". Either the "week" or "day" as atomic time unit to be decided.
 
 2) Sampling Simulations
 
