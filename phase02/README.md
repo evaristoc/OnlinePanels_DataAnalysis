@@ -13,7 +13,7 @@ Some observations are:
 - Previous simulation was based on an invitation model of "one invite, one survey". For this phase the now more popular Inbox and Router models will be suggested. This may involve a new class or method to simulate the Inbox per panelist.
 
 EDIT 09-05-2014:
-A first (still incomplete) script file was loaded:
+A first (still uncompleted) script file was loaded:
 - the script give an idea of the direction of the major implementation
 - the project use Object Oriented programming as main programming paradigm, which is more suitable for the model
 - Panelists and portals are 2 different interfaces that will interact during the sampling procedure
