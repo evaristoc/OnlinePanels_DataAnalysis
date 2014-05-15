@@ -9,12 +9,12 @@ A first (still uncompleted) script file was loaded:
 Keeping the same objectives as in the first phase, in this second phase I will continue exploring the simulation. This time subsequent functions, behaviours and attributes will be added to better fit some current real practices but also some simplifications. The IBRO model (see previous phase) could be emphasised but the general approach to sampling will be modified and upgraded to include certain dynamics found in field.
 Some observations are:
 
-1. IBRO (for Inflow - Base - Retention/churn - Outflow) model
+1- IBRO (for Inflow - Base - Retention/churn - Outflow) model
 
 - Functions better supported by empirical observations to explain survival and response rates per cohort will be used.
 - The baseline for a population would be evaluated in terms of a year-time-horizon proposal, counted in weeks (not days, as previous phase).
 
-2. Sampling Simulations
+2- Sampling Simulations
 
 - Previous simulation was based on an invitation model of "one invite, one survey". For this phase the now more popular Inbox and Router models will be suggested. This may involve a new class or method to simulate the Inbox per panelist.
 - For the moment the sampling analysis and the behaviour of the population during the sampling event will be evaluated in weeks, no days as in Phase 01.
@@ -25,7 +25,7 @@ EDIT 15-05-2014:
 A first quick test of the currently available classes and functions has been included.
 
 Apart of what it is shown, additional tasks would include:
-- Rescuing the concept of "exposure rate" given in the previous definition as a black-box measure approximation to the effects of technological change
+- Rescuing the concept of "exposure rate" given in the previous phase as a black-box measure approximation to the effects of technological change
 - Simple Diagrams of the simulations (currently unavailable)
 - A threading procedure for the sampling Event
 - Likely also a threading for the universe generation during updating of Panellist's instances status
