@@ -1,6 +1,6 @@
 The main purpose of this repository is to publicly share a (quick and dirty) code I developed while working for an Online Consumer Panel company.
 
-The project looks to simulate operations associated to Online Consumer (Access) Panels.
+The project attempts to simulate operations associated to Online Consumer (Access) Panels.
 
 By the time of this proposal, objectives of this work were:
 - Evaluating the feasibility of simulations for (strategic) decision making support tools in the online consumer panel industry
