@@ -1,11 +1,6 @@
-The main purpose of this repository is to publicly share a (quick and dirty) code I developed while working for an Online Consumer Panel company (a more elaborated motive explanation will be included soon).
+ONLINE PANEL SIMULATION - FIRST DEMO - Outline
 
-By the time of this proposal, objectives of this work were:
-- Evaluating the feasibility of simulations for (strategic) decision making support tools in the online consumer panel industry
-- Identify critical points for additional business process automation (eg current sample size analysis) or tools for strategic decision making (eg annual recruitment budget allocation analysis) 
-- Introducing to/Testing concepts and dynamics as observed in the field / empirical data
-
-There are two undistinguished simulation exercises in the code:
+There are two undistinguished simulation exercises in this code:
 
 1) An IBRO (for Inflow - Base - Retention/chrun - Outflow) model
 - Sketching an IBRO model and evaluate its programatic feasibility
@@ -22,11 +17,7 @@ There are two undistinguished simulation exercises in the code:
 
 The project was followed by a more concrete proposal and further analyses of empirical data (not included here)
 
-Observations:
-- For being a 'quick and dirty' sketching demo the code is still "unpolished"
-- The demo doesn't have a GUI or similar (runs on IDLE or command prompt); there are sections where parameters must be changed manually on the code
-- Data / dynamics were based on sketched models and or arbitrary parameters
-- An external file was used to assign response rates to panelist instances; file included in the repository
+For more information about this particular demo, please visit http://www.slideshare.net/evaristoc/simulation-v10-scheme
 
 Participants:
 E Caraballo, conception and developer; L Borja, (internal) business developer (LSR)
