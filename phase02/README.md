@@ -2,9 +2,9 @@ ONLINE PANEL SIMULATION - SECOND DEMO - Outline
 
 A more developed script that better reflect in-field operations.
 
-A first (still uncompleted) script file was loaded:
+A sketched script file was loaded:
 - the script gives an idea of the direction of the major implementation
-- differently to previous demo, this demo included more Object Oriented programming, which is more suitable to the model characteristics 
+- differently to previous demo, this demo included more Object Oriented programming, which is more suitable to the model characteristics
 
 Keeping the same objectives as in the first demo, in this second demo I will continue exploring the simulation. This time subsequent functions, behaviours and attributes will be added to better fit some current real practices but also some simplifications. The IBRO model (see previous demo) could be emphasised but the general approach to sampling will be modified and upgraded to include certain dynamics found in field.
 Some observations are:
